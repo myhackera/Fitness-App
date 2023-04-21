@@ -2,10 +2,10 @@
 
 Here is a sample implementation of the required APIs:
 
-Technologies Used
-=> Node.js
-=> Express.js
-=> MongoDB
+<ul>Technologies Used</ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>MongoDB</li>
 
 Dependencies
 => express - web framework for Node.js
