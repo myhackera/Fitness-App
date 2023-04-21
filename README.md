@@ -3,13 +3,14 @@
 Here is a sample implementation of the required APIs:
 
 Technologies Used
-Node.js
-Express.js
-MongoDB
+=> Node.js
+=> Express.js
+=> MongoDB
+
 Dependencies
-express - web framework for Node.js
-mongoose - elegant mongodb object modeling for node.js
-body-parser - middleware for parsing incoming request body
+=> express - web framework for Node.js
+=> mongoose - elegant mongodb object modeling for node.js
+=> body-parser - middleware for parsing incoming request body
 
 
 In the above implementation, we have:
@@ -23,4 +24,4 @@ In the above implementation, we have:
 7) Start the server 
 8) Test the API endpoints using a tool like Postman.
 
-<h3>API Testing images are provided in API Folder
+<h3>API Testing images are provided in API Images Folder
