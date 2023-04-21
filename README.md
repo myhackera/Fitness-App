@@ -2,15 +2,15 @@
 
 Here is a sample implementation of the required APIs:
 
-<ul>Technologies Used</ul>
+<h3>Technologies Used</h3>
   <li>Node.js</li>
   <li>Express.js</li>
   <li>MongoDB</li>
 
-Dependencies
-=> express - web framework for Node.js
-=> mongoose - elegant mongodb object modeling for node.js
-=> body-parser - middleware for parsing incoming request body
+<h3>Dependencies</h3>
+ <li>express - web framework for Node.js</li>
+ <li>mongoose - elegant mongodb object modeling for node.js</li>
+ <li>body-parser - middleware for parsing incoming request body</li>
 
 
 In the above implementation, we have:
